@@ -1,4 +1,4 @@
-# Ai-Disaster-Response
+# AI-Disaster-Response
 AI-based Disaster Management system using Social Media
 
 # 🚨 AI-Based Disaster Management & Emergency Response System
