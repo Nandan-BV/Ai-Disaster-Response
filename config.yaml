@@ -21,28 +21,3 @@ urgency_keywords:
   high: ["collapsed", "damage", "destroyed", "flood", "fire", "injured"]
   medium: ["need", "request", "shortage", "missing", "evacuate"]
   low: ["update", "report", "news", "information", "alert"]
-```
-
-Commit changes ✅
-
----
-
-**Step 4 — Create folder structure using placeholder files**
-
-GitHub doesn't allow empty folders, so create a `.gitkeep` file inside each folder.
-
-Create these files one by one (click "Add file" → "Create new file"):
-```
-data/raw/.gitkeep
-data/processed/.gitkeep
-data/external/.gitkeep
-notebooks/.gitkeep
-src/__init__.py
-src/data_collection/__init__.py
-src/preprocessing/__init__.py
-src/models/__init__.py
-src/utils/__init__.py
-dashboard/.gitkeep
-scripts/.gitkeep
-models/.gitkeep
-reports/figures/.gitkeep
