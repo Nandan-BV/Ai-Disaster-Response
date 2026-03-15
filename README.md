@@ -18,7 +18,7 @@ disaster-related information and support emergency responders.
 Python | Pandas | NumPy | Scikit-learn | NLTK | Streamlit | Matplotlib
 
 ## 👥 Team
-Nandan — Developer
+Nandan — Developer,
 Srushti Joshi - AI/ML Developer
 
 ## 📅 Status
