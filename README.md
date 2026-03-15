@@ -19,7 +19,7 @@ Python | Pandas | NumPy | Scikit-learn | NLTK | Streamlit | Matplotlib
 
 ## 👥 Team
 Nandan — Developer
-Srushti Joshi - 
+Srushti Joshi - AI/ML Developer
 
 ## 📅 Status
 🟡 In Progress — Started March 2025
