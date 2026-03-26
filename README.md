@@ -105,7 +105,4 @@ streamlit run dashboard/app.py
 ## 👥 Team
 - Nandan— Developer
 
-## 📅 Started
-March 2026
-```
 
