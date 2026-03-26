@@ -91,8 +91,8 @@ streamlit run dashboard/app.py
 
 | # | Notebook | Status |
 |---|----------|--------|
-| 1 | Data Exploration | ✅ Done |
-| 2 | Text Preprocessing | 🔄 In Progress |
+| 1 | Data Exploration | In Progress |
+| 2 | Text Preprocessing | |
 | 3 | Disaster Classification | |
 | 4 | Urgency Classification | |
 | 5 | Misinformation Filter |  |
