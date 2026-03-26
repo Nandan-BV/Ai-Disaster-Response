@@ -1,48 +1,114 @@
-# AI-Disaster-Response
-AI-based Disaster Management system using Social Media.
-
 # 🚨 AI-Based Disaster Management & Emergency Response System
 
-An AI-powered system that analyzes social media posts to identify 
-disaster-related information and support emergency responders.
+An AI-powered **Multimodal** disaster detection system that analyzes
+social media **text, images, and videos** to identify real disaster
+events, determine urgency levels, detect fake posts, and pinpoint
+geographic locations to alert emergency responders instantly.
 
-## 📌 Project Modules
-- Data Collection
-- Data Preprocessing  
-- Disaster Classification
-- Urgency Classification
-- Misinformation Filtering
-- Visualization Dashboard
+---
+
+## 🎯 How It Works
+```
+Social Media Post (Text + Image + Video)
+              ↓
+    AI Analysis System
+              ↓
+  ✅ Real Disaster Confirmed
+  🔴 Urgency: CRITICAL
+  📍 Location: Detected & Mapped
+  🚒 Alert sent to Responders!
+```
+
+---
+
+## 📦 System Modules
+
+| Module | Description | Status |
+|--------|-------------|--------|
+| 📥 Data Collection | Gathers disaster datasets | ✅ Done |
+| 🧹 Text Preprocessing | Cleans tweet text | 🔄 In Progress |
+| 🤖 Disaster Classifier | Text-based disaster detection | 🔜 Pending |
+| ⚡ Urgency Classifier | Rates urgency level | 🔜 Pending |
+| 🚫 Misinformation Filter | Detects fake posts | 🔜 Pending |
+| 📸 Image Analysis | CNN-based image classifier | 🔜 Pending |
+| 🎥 Video Analysis | Frame-by-frame video analysis | 🔜 Pending |
+| 📍 Location Detection | GPS & text-based geo location | 🔜 Pending |
+| 📊 Dashboard | Live map + charts + alerts | 🔜 Pending |
+
+---
 
 ## 🛠️ Tech Stack
-Python | Pandas | NumPy | Scikit-learn | NLTK | Streamlit | Matplotlib
 
-## 👥 Team
-Nandan — Developer,
-Srushti Joshi - AI/ML Developer
+| Area | Tools |
+|------|-------|
+| Language | Python 3.10+ |
+| Data | Pandas, NumPy |
+| NLP | NLTK, spaCy |
+| ML Models | Scikit-learn |
+| Image/Video | OpenCV, TensorFlow/Keras |
+| Location | Geopy, Folium |
+| Dashboard | Streamlit |
+| Visualization | Matplotlib, Plotly |
 
-## 📅 Status
-🟡 In Progress — Started March 2025
-
-## 🚀 Setup Instructions
-```bash
-pip install -r requirements.txt
-```
+---
 
 ## 📁 Project Structure
 ```
 disaster-response-ai/
 ├── data/
-│   ├── raw/
-│   └── processed/
-├── notebooks/
+│   ├── raw/          → Text datasets
+│   ├── processed/    → Cleaned data
+│   ├── images/       → Disaster images
+│   │   ├── disaster/
+│   │   └── non_disaster/
+│   └── videos/       → Disaster videos
+├── notebooks/        → Jupyter notebooks
 ├── src/
 │   ├── data_collection/
-│   ├── preprocessing/
-│   ├── models/
+│   ├── preprocessing/ → Text + Image + Video
+│   ├── models/        → All AI models
+│   ├── location/      → GPS detection
 │   └── utils/
-├── dashboard/
+├── dashboard/        → Streamlit app
 ├── scripts/
-├── models/
+├── models/           → Saved model files
 └── reports/
 ```
+
+---
+
+## 🚀 Setup
+```bash
+git clone https://github.com/YOUR-USERNAME/disaster-response-ai.git
+cd disaster-response-ai
+pip install -r requirements.txt
+streamlit run dashboard/app.py
+```
+
+---
+
+## 📊 Notebooks
+
+| # | Notebook | Status |
+|---|----------|--------|
+| 1 | Data Exploration | ✅ Done |
+| 2 | Text Preprocessing | 🔄 In Progress |
+| 3 | Disaster Classification | 🔜 |
+| 4 | Urgency Classification | 🔜 |
+| 5 | Misinformation Filter | 🔜 |
+| 6 | Image Analysis | 🔜 |
+| 7 | Video Analysis | 🔜 |
+| 8 | Location Detection | 🔜 |
+
+---
+
+## 👥 Team
+- Nandan— Developer
+
+## 📅 Started
+March 2026
+```
+
+Commit message:
+
+Total  → 14 changes on GitHub
