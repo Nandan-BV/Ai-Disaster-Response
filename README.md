@@ -93,12 +93,12 @@ streamlit run dashboard/app.py
 |---|----------|--------|
 | 1 | Data Exploration | ✅ Done |
 | 2 | Text Preprocessing | 🔄 In Progress |
-| 3 | Disaster Classification | 🔜 |
-| 4 | Urgency Classification | 🔜 |
-| 5 | Misinformation Filter | 🔜 |
-| 6 | Image Analysis | 🔜 |
-| 7 | Video Analysis | 🔜 |
-| 8 | Location Detection | 🔜 |
+| 3 | Disaster Classification | |
+| 4 | Urgency Classification | |
+| 5 | Misinformation Filter |  |
+| 6 | Image Analysis | |
+| 7 | Video Analysis | |
+| 8 | Location Detection | |
 
 ---
 
@@ -109,6 +109,3 @@ streamlit run dashboard/app.py
 March 2026
 ```
 
-Commit message:
-
-Total  → 14 changes on GitHub
