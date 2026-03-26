@@ -1,1 +1,1 @@
-.
+# location detection module init
