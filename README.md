@@ -79,7 +79,7 @@ disaster-response-ai/
 
 ## 🚀 Setup
 ```bash
-git clone https://github.com/YOUR-USERNAME/disaster-response-ai.git
+git clone https://github.com/Nandan-BV/disaster-response-ai.git
 cd disaster-response-ai
 pip install -r requirements.txt
 streamlit run dashboard/app.py
