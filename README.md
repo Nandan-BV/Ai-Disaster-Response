@@ -25,15 +25,15 @@ Social Media Post (Text + Image + Video)
 
 | Module | Description | Status |
 |--------|-------------|--------|
-| 📥 Data Collection | Gathers disaster datasets | ✅ Done |
-| 🧹 Text Preprocessing | Cleans tweet text | 🔄 In Progress |
-| 🤖 Disaster Classifier | Text-based disaster detection | 🔜 Pending |
-| ⚡ Urgency Classifier | Rates urgency level | 🔜 Pending |
-| 🚫 Misinformation Filter | Detects fake posts | 🔜 Pending |
-| 📸 Image Analysis | CNN-based image classifier | 🔜 Pending |
-| 🎥 Video Analysis | Frame-by-frame video analysis | 🔜 Pending |
-| 📍 Location Detection | GPS & text-based geo location | 🔜 Pending |
-| 📊 Dashboard | Live map + charts + alerts | 🔜 Pending |
+| 📥 Data Collection | Gathers disaster datasets | In Progress  |
+| 🧹 Text Preprocessing | Cleans tweet text |  |
+| 🤖 Disaster Classifier | Text-based disaster detection |  |
+| ⚡ Urgency Classifier | Rates urgency level |  |
+| 🚫 Misinformation Filter | Detects fake posts |  |
+| 📸 Image Analysis | CNN-based image classifier |  |
+| 🎥 Video Analysis | Frame-by-frame video analysis | |
+| 📍 Location Detection | GPS & text-based geo location |  |
+| 📊 Dashboard | Live map + charts + alerts | |
 
 ---
 
