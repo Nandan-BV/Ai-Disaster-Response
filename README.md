@@ -105,5 +105,5 @@ streamlit run dashboard/app.py
 ## 👥 Team
 - Nandan— Developer
 - Tilak D R - AI Developer
-
+- Srushti Joshi - AI/ML Developer
 
