@@ -7,7 +7,7 @@ geographic locations to alert emergency responders instantly.
 
 ---
 
-## 🎯 How It Works
+##  How It Works
 ```
 Social Media Post (Text + Image + Video)
               ↓
@@ -16,7 +16,7 @@ Social Media Post (Text + Image + Video)
   ✅ Real Disaster Confirmed
   🔴 Urgency: CRITICAL
   📍 Location: Detected & Mapped
-  🚒 Alert sent to Responders!
+     Alert sent to Responders!
 ```
 
 ---
